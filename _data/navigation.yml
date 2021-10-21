@@ -1,8 +1,11 @@
 # main links
 main:
-  - title: "Quick-Start Guide"
-    url: https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/
-  # - title: "About"
+  - title: "Categories"
+    url: /categories/
+  - title: "Monthly"
+    url: /month-archive/
+  - title: "About"
+    url: http://3.38.101.82/
   #   url: https://mmistakes.github.io/minimal-mistakes/about/
   # - title: "Sample Posts"
   #   url: /year-archive/
@@ -10,3 +13,6 @@ main:
   #   url: /collection-archive/
   # - title: "Sitemap"
   #   url: /sitemap/
+  # - title: "ToDo"
+  #  url: todo
+
