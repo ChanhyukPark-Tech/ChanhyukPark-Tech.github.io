@@ -8,7 +8,7 @@
   <ul class="nav__items" id="category_tag_menu">
       <!--전체 글 수-->
       <li>
-            📂 <span style="font-family:'Cafe24Oneprettynight';">전체 글 수</style> <span style="font-family:'Coming Soon';">{{sum}}</style> <span style="font-family:'Cafe24Oneprettynight';">개</style> 
+            📂 <span style="font-family:'Cafe24Oneprettynight';">전체 글 수</style> <span style="font-family:'Coming Soon';">{{sum}}</style> <span style="font-family:'Cafe24Oneprettynight';">개</style>
       </li>
       <li>
         <span class="nav__sub-title">THEORY</span>
@@ -24,7 +24,7 @@
             <!--ul 태그로 같은 카테고리들 모아둔 페이지들 나열-->
             <ul>
                 <!--Cpp 카테고리 글들을 모아둔 페이지인 /categories/cpp 주소의 글로 링크 연결-->
-                <!--category[1].size 로 해당 카테고리를 가진 글의 개수 표시--> 
+                <!--category[1].size 로 해당 카테고리를 가진 글의 개수 표시-->
                 {% for category in site.categories %}
                     {% if category[0] == "reactjs" %}
                         <li><a href="/categories/reactjs" class="">reactjs ({{category[1].size}})</a></li>
@@ -40,7 +40,7 @@
             </ul>
              <ul>
                 <!--Cpp 카테고리 글들을 모아둔 페이지인 /categories/cpp 주소의 글로 링크 연결-->
-                <!--category[1].size 로 해당 카테고리를 가진 글의 개수 표시--> 
+                <!--category[1].size 로 해당 카테고리를 가진 글의 개수 표시-->
                 {% for category in site.categories %}
                     {% if category[0] == "Cpp" %}
                         <li><a href="/categories/cpp" class="">HTML ({{category[1].size}})</a></li>
@@ -84,6 +84,15 @@
                     {% endif %}
                 {% endfor %}
             </ul>
+
+       <span class="nav__sub-title">DevOps</span>
+                   <ul>
+                       {% for category in site.categories %}
+                           {% if category[0] == "docker" %}
+                               <li><a href="/categories/docker" class="">docker ({{category[1].size}})</a></li>
+                           {% endif %}
+                       {% endfor %}
+                   </ul>
        <span class="nav__sub-title">ETC</span>
             <ul>
                 {% for category in site.categories %}
