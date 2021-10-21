@@ -2,8 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="cec5a988-c885-4d67-bac0-f457795daa99" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/_posts/docker/2021-10-22-commit-build.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/google5611841865f33731.html" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -93,7 +92,7 @@
       <workItem from="1634055747826" duration="5911000" />
       <workItem from="1634153685411" duration="5000" />
       <workItem from="1634831490958" duration="537000" />
-      <workItem from="1634833277672" duration="807000" />
+      <workItem from="1634833277672" duration="1473000" />
     </task>
     <servers />
   </component>
