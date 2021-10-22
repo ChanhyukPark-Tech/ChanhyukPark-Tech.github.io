@@ -2,9 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="cec5a988-c885-4d67-bac0-f457795daa99" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/_posts/swDev/2021-10-23-plan-wbs.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_includes/nav_list_main" beforeDir="false" afterPath="$PROJECT_DIR$/_includes/nav_list_main" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/swDev/2021-10-23-plan-wbs.md" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/swDev/2021-10-23-plan-wbs.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -97,7 +96,7 @@
       <workItem from="1634831490958" duration="537000" />
       <workItem from="1634833277672" duration="4170000" />
       <workItem from="1634838913854" duration="1879000" />
-      <workItem from="1634920911005" duration="737000" />
+      <workItem from="1634920911005" duration="2454000" />
     </task>
     <servers />
   </component>
