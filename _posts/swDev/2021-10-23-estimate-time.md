@@ -2,9 +2,9 @@
 title:  "[swDev] Project Time Management "
 
 categories:
-- swDev
-  tags:
-- [plan, time,project]
+  - swDev
+tags:
+  - [plan, time,project]
 
 toc: true
 toc_sticky: true
