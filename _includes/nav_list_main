@@ -114,7 +114,7 @@
                         <li><a href="/categories/swDev" class="">swDev ({{category[1].size}})</a></li>
                     {% endif %}
                 {% endfor %}
-            </ul>
+            </ul> 
        <span class="nav__sub-title">ROUTINE</span>
             <ul>
                 {% for category in site.categories %}
