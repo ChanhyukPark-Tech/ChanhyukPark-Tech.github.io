@@ -34,8 +34,11 @@ based on tables of `past actuals` on major tasks
 - requires professional judgement & good history (with changes)
 
 리드타임분포도를 활용한다.
+
 ![image](https://user-images.githubusercontent.com/69495129/138500653-804929de-1b92-40bf-8e82-69f6e3ec2ab3.png)
+
 분포가 좁으면 좋다 ⇒ 비즈니스 예측성이 높다
+
 왼쪽으로 쏠리면 ⇒ 일이 빨리 끝날 수 있다.
 개발자가 질문 받을 수 있다.  ex) 이 기능 구현하는데 얼마나걸려요?
 지금까지는 감으로 예상 남은 일수를 말해줬지만 , 리드타임 분포도를 이용한다면 어느정도 근거가 있는 대답을 할 수 있다. A) 이런 유형의 기능을 구현하는데는 95%의 확률로 ~일 정도 소요됩니다 😉
