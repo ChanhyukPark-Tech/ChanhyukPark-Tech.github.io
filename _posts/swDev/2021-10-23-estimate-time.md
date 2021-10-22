@@ -65,6 +65,7 @@ based on tables of `past actuals` on major tasks
 ## best way to estimate
 
 `theoretically ` : 3 formula
+<br>
 `realistically ` : 1 professional judgement
 
 이론적으로는 공식을 이용하는게 맞지만, 프로젝트 진행중 너무나 많은 변수가 있기때문에 실제로는 전문가의 판단이 가장 잘 시간을 예측할 수 있는 방법인것 같다.
