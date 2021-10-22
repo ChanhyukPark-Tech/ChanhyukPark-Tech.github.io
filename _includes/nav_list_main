@@ -113,7 +113,7 @@
                     {% if category[0] == "swDev" %}
                         <li><a href="/categories/swDev" class="">swDev ({{category[1].size}})</a></li>
                     {% endif %}
-                 {% endfor %}
+                {% endfor %}
             </ul>
        <span class="nav__sub-title">ROUTINE</span>
             <ul>
