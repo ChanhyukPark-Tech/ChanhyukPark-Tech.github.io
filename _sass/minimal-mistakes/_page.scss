@@ -360,14 +360,14 @@ body {
 .page__taxonomy-item-category {
   display: inside;
   font-weight: bold;
-  font-size: 1.1rem;
+  font-size: 1rem;
   margin-right: 5px;
   margin-bottom: 8px;
-  padding: 3px 8px;
+  padding: 1px 1px;
   text-decoration: none;
   border: 1px solid $background-color;
   border-radius: $border-radius;
-  background-color: transparent;
+  background-color: #263238;
   color: mix(#fff, $primary-color, 100%);;
 
   &:hover {
