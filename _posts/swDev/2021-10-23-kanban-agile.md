@@ -6,7 +6,7 @@ categories:
 tags:
   - [kanban,agile,project]
 
-toc: true
+toc: false
 toc_sticky: true
 
 ---
