@@ -2,9 +2,9 @@
 title:  "[jenkins] Cannot run program "nohup" "
 
 categories:
-- docker
-  tags:
-- [jenkins,nohub,git-bash]
+  - jenkins
+tags:
+  - [jenkins,nohub,git-bash]
 
 toc: false
 toc_sticky: false
