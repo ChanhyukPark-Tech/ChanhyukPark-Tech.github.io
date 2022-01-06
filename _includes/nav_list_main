@@ -95,8 +95,8 @@
             </ul>
             <ul>
                  {% for category in site.categories %}
-                     {% if category[0] == "docker" %}
-                        <li><a href="/categories/docker" class="">docker ({{category[1].size}})</a></li>
+                     {% if category[0] == "aws" %}
+                        <li><a href="/categories/aws" class="">aws ({{category[1].size}})</a></li>
                      {% endif %}
                  {% endfor %}
             </ul>
