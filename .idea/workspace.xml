@@ -2,9 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="cec5a988-c885-4d67-bac0-f457795daa99" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/_posts/aws/2022-01-06-awsEC2access.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_includes/nav_list_main" beforeDir="false" afterPath="$PROJECT_DIR$/_includes/nav_list_main" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/aws/2022-01-06-awsEC2access.md" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/aws/2022-01-06-awsEC2access.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -104,7 +102,7 @@
       <workItem from="1634920911005" duration="2454000" />
       <workItem from="1634963465532" duration="1229000" />
       <workItem from="1635012653094" duration="4000" />
-      <workItem from="1641447418926" duration="213000" />
+      <workItem from="1641447418926" duration="355000" />
     </task>
     <servers />
   </component>
