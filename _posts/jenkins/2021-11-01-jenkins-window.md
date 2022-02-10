@@ -1,5 +1,5 @@
 ---
-title:  "[jenkins] Cannot run program "nohup" "
+title:  "[jenkins] Cannot run program nohup "
 
 categories:
   - jenkins

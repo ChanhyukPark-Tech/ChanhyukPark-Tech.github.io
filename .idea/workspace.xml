@@ -2,8 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="cec5a988-c885-4d67-bac0-f457795daa99" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/_posts/reactjs/2022-02-05-react-rendering-optimization.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/jenkins/2021-11-01-jenkins-window.md" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/jenkins/2021-11-01-jenkins-window.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -115,6 +115,7 @@
       <workItem from="1641447418926" duration="677000" />
       <workItem from="1644051570376" duration="191000" />
       <workItem from="1644051772993" duration="2036000" />
+      <workItem from="1644480657184" duration="156000" />
     </task>
     <servers />
   </component>
@@ -131,7 +132,6 @@
         </entry>
       </map>
     </option>
-    <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
