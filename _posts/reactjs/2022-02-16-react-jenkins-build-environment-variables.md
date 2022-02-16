@@ -33,7 +33,7 @@ Jenkins 에서 하는일은 git 을 clone 하여 빌드를 한 뒤, 빌드한 �
 
 ### 해결방법
 
-프론트엔드 개발자신 [김민수](https://github.com/minsoo-web) 님에게 이런상황애 .env file 을 어디서 관리하는지 여쭤봤는데 정확한 해결법을 주셨다....
+프론트엔드 개발자신 [김민수](https://github.com/minsoo-web) 님에게 이런상황에 .env file 을 어디서 관리하는지 여쭤봤는데 정확한 해결법을 주셨다....
 
 ![image](https://user-images.githubusercontent.com/69495129/154199265-70d92669-59c0-4893-87fe-36cbb02d179e.png)
 
@@ -44,9 +44,21 @@ Jenkins 에서 하는일은 git 을 clone 하여 빌드를 한 뒤, 빌드한 �
 ![image](https://user-images.githubusercontent.com/69495129/154199423-3f517e71-259c-4391-8496-bedf14572961.png)
 
 
-그 후 빌드하는 과정에서 이 매개변수를 
+그 후 빌드하는 과정에서 이 매개변수를 이용할 수 있다! 
+
+저 같은 경우는 빌드하기 직전 sh command 에서 .env 파일을 생성해주는식으로 스크립트를 구성했습니다.
 
 
+
+![image](https://user-images.githubusercontent.com/69495129/154213150-3267dfff-f0bf-4fba-ab67-f42fa2680c5e.png)
+
+
+
+
+### 결론
+
+- 구글링을 아무리해봐도 정확한 답변을 얻지 못하는 상황은 오랜만이였던것 같다.. 
+- 젠킨스는 멋지다 🚗
 
 
 
